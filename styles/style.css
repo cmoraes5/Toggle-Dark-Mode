@@ -66,11 +66,11 @@
   }
   
   .card img {
-    width: 130%;
-    transform: rotate(-25deg);
+    width: 80%;
+    transform: rotate(-15deg);
     position: absolute;
-    right: -1rem;
-    top: 10rem;
+    right: 6rem;
+    top: .2rem;
   }
   
   .card-details h2{
